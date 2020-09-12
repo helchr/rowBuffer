@@ -1,0 +1,3 @@
+[submodule "graphem"]
+	path = graphem
+	url = https://github.com/taura/graphem.git
